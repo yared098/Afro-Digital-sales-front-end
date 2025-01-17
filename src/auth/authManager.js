@@ -15,3 +15,4 @@ const getAuthProvider = () => {
 };
 
 export default getAuthProvider;
+
